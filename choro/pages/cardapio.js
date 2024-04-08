@@ -6,7 +6,7 @@ export function Dois() {
         <SafeAreaView style={{ flex: 1 }}>
             <View style={ESTILO.header}>
                 <Text style={ESTILO.title}>
-                    Cardápio
+                    Cardápio - Isaqkeizin
                 </Text>
             </View>
         </SafeAreaView>
